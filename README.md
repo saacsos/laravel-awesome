@@ -14,6 +14,7 @@ My Laravel 5 awesome list
 * [maatwebsite/excel](https://github.com/Maatwebsite/Laravel-Excel)
 * [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable)
 * [vinelab/neoeloquent](https://github.com/Vinelab/NeoEloquent)
+* [simplesoftwareio/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode)
 
 ### API
 * [dingo/api](https://github.com/dingo/api)
